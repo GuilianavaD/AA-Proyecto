@@ -76,16 +76,17 @@
     <body>
     <div id="header">
         <ul class="nav">
-            <li><a href="index.html">INICIO</a>
+            <li><a href="Inicio.php">INICIO</a>
                 <ul>
-                    <li><a href="Inicio.php">INFORMACIÓN</a>
+                    <li><a href="Informacion.php">INFORMACIÓN</a>
                 
                     </li>
                     <li><a href="contacto.php">CONTACTOS</a>
                     
                     </li>
                     <li><a href="misivisi.php">MISIÓN Y VISIÓN</a>
-                
+                    </li>
+                    <li><a href="index.html">Cerrar Sesión</a>
                 </ul>
             </li>
             <li><a href="conceptos.php">CONCEPTOS</a>
