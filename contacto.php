@@ -102,20 +102,18 @@
     <br>
     <div>
     <center><h2>NOS PUEDE CONTACTAR AL SIGUIENTE TELÉFONO "940717714"
-        <p> Y SEGUINOS POR FACEBOOK <a href="https://www.facebook.com/aaenperu/">AA en Perú</a>
+        <p> Y SIGUENOS POR FACEBOOK <a href="https://www.facebook.com/aaenperu/">AA en Perú</a>
     </h2>
     </div>
     <br>
     <div align="left"> <p>
       <img style="border:15px solid; color: blue;float:left; margin-right:20px;"src="imagen/atadura.jpg"width="450" height="263"  >
      <h2> <br clear="right"><pr>ESTAMOS DISPONIBLES LAS 24 HORAS AL DÍA, <p>SI TIENES ALGÚN PROBLEMA ¡NO DUDES EN LLAMARNOS!!<p> LA UNIÓN HACE LA FUERZA.</h2>
-     <img style="border:15px solid; color: blue;float:left;margin-right:20px;"src="imagen/exi.jfif"width="350" height="150"  >
-     <img style="border:15px solid; color: blue;float:left;"src="imagen/alto.jpg"width="300" height="150"  >
+     <img style="border:15px solid; color: blue;float:left;margin-right:30px;"src="imagen/exi.jfif"width="350" height="150"  >
+     <img style="border:15px solid; color: blue;float:left;"src="imagen/alto.jpg"width="300" height="150"  > 
     </div>
-    </br>
-    </br>
-    </br>
-    <br><center><h3><a href="https://twitter.com/login?lang=es">Twitter:@guiliana_cw21</a><p> <a href="https://www.google.com/intl/es/gmail/about/">Correo:gvalercii@gmail.com</a></h3></center>
+    <br>
+    <h3 align="left"><a href="https://twitter.com/login?lang=es">Twitter:@guiliana_cw21</a>  &nbsp;  &nbsp;     &nbsp; <a href="https://www.google.com/intl/es/gmail/about/">Correo:gvalercii@gmail.com</a></h3></center>
     <br>
     </body>
 </html>
