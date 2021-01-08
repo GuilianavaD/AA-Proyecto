@@ -55,21 +55,6 @@
             right:-140px;
             top:0px;
         }
-                    
-            table{width: 100%;
-                background-color:#c0c0c0;
-                border-radius: 20px;
-            }
-
-            table {
-
-             }
-
-            img
-            {
-                border-radius:20px;
-                margin: 20px;
-            }
 
     </style>
     </head>
