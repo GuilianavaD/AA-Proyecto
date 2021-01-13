@@ -3,9 +3,58 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
     <title>AA</title>
     <style type="text/css">
+        
+        * {
+            margin:0px;
+            padding:0px;
+        }
+        
+        #header {
+            margin:auto;
+            width:500px;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        
+        ul, ol {
+            list-style:none;
+        }
+        
+        .nav > li {
+            float:left;
+        }
+        
+        .nav li a {
+            background-color:rgb(30, 111, 204);
+            color:#fff;
+            text-decoration:none;
+            padding:10px 12px;
+            display:block;
+        }
+        
+        .nav li a:hover {
+            background-color:#0e2f9b;
+        }
+        
+        .nav li ul {
+            display:none;
+            position:absolute;
+            min-width:140px;
+        }
+        
+        .nav li:hover > ul {
+            display:block;
+        }
+        
+        .nav li ul li {
+            position:relative;
+        }
+        
+        .nav li ul li ul {
+            right:-140px;
+            top:0px;
+        }
                     
             table{width: 100%;
                 background-color:#c0c0c0;
@@ -21,7 +70,58 @@
                 border-radius:20px;
                 margin: 20px;
             }
+            
 
+
+
+            .slider{
+                width: 95%;
+                margin: auto;
+                overflow: hidden;
+            }
+            .slider ul {
+                display: flex;
+                padding:0;
+                width:300%;
+                animation: cambio 20s infinite alternate;
+              
+            }
+            .slider li {
+                width:100%
+                list-style: none;
+            }
+            .slider img {
+                width:85%;
+            }
+            @keyframes cambio {
+                0% {margin-left: 0;}
+                20% {margin-left: 0;}
+
+                25% {margin-left: -100%;} 
+                45% {margin-left: -100%;} 
+
+                50% {margin-left: -200%;} 
+                70% {margin-left: -200%;} 
+
+                75% {margin-left: -200%;} 
+                100% {margin-left: -200%;}          
+
+            }
+            div{width: 100%;
+                background-color:green;
+                border-radius: 20px;
+            }
+
+            div {
+
+             }
+
+            img
+            {
+                border-radius:20px;
+                margin: 20px;
+            }
+            
     </style>
     </head>
     <body>
@@ -62,6 +162,17 @@
     <br><br>
     <h1 style="color:#24c0e7"><center>BIENVENIDOS A ALCOHÓLICOS ANÓNIMOS (AA)</center></h1>
    <br>
+   <div>
+    <div class="slider">
+        <ul><li><img src="imagen/refle.jpg" height="450px" width="500px" align="right" alt=""></li> &nbsp; 
+            <li ><img src="imagen/alto.jpg" height="450px" width="500px" align="right" alt=""></li> &nbsp; 
+            <li><img src="imagen/stop.jpg" height="450px" width="500px"align="right" alt=""></li> &nbsp; </br> </br>
+            <li><img src="imagen/grupo.jpg" height="450px" width="500px"align="right"  alt=""></li> &nbsp; 
+        </ul>
+        </div>
+        </div>
+        <br>
+        </br>
         <table>
             <tbody>
                 <tr>
