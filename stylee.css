@@ -27,7 +27,8 @@
     
 } 
 #principal{ 
-    background-color: #FFF; 
+    background-color: rgb(188, 187, 243);
+    float: right;   
     margin-left:425px; 
     padding: 4 4 4 4px; 
     width: 360px;
