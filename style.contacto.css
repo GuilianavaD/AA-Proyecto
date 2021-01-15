@@ -1,0 +1,38 @@
+* { 
+        margin:0;
+        padding:0;
+      }
+      body {
+        background:#CEF6F5;
+        font-family:verdana;
+      }
+      h1 {
+        color:#c0c;
+        font-size:24px;
+      }
+      p {
+        font-size:16px;
+      }
+      #cabecera {
+        color:#ff9;
+        background-color:#000;
+        padding:10px;
+      }
+      #contenedor {
+        margin:0 auto;
+        width:800px;
+      }
+      #contenido {
+        background-color:#ddd;
+        float:left;
+        height:700px;
+        padding:10px;
+        width:560px;
+      }
+      #menu {
+        background-color:#999;
+        float:left;
+        height:680px;
+        padding:20px;
+        width:180px;
+      }
