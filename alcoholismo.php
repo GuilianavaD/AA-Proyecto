@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="stylee.css">
+    <link rel="stylesheet" type="text/css" href="stylee_alcoho.css">
     <title>AA</title>
     <style type="text/css">
     </style>
