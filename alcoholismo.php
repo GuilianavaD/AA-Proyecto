@@ -9,7 +9,7 @@
     <style type="text/css">
     </style>
     </head>
-    <body>
+    <body style=background-image:url('imagen/fondoinvi.jpg width=100% height=100vh ')>
     <div id="header">
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
