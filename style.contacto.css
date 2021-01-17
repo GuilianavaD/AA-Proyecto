@@ -20,19 +20,19 @@
       }
       #contenedor {
         margin:0 auto;
-        width:800px;
+        width:auto;
       }
       #contenido {
         background-color:#ddd;
         float:left;
-        height:700px;
+        height:auto;
         padding:10px;
-        width:560px;
+        width:auto;
       }
       #menu {
         background-color:#999;
         float:left;
-        height:680px;
+        height:auto;
         padding:20px;
-        width:180px;
+        width:auto;
       }
