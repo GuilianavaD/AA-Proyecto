@@ -23,7 +23,7 @@
                     <li><a href="index.html">Cerrar Sesión</a>
                 </ul>
             </li>
-            <li><a href="conceptos.php">CONCEPTOS</a>
+            <li><a href="conceptos.php">SÍNTOMAS</a>
                 <ul>
                 <li><a href="alcoholismo.php">EL ALCOHOLISMO</a>
                 </li>
@@ -47,13 +47,13 @@
   <body>
     <div id="contenedor">
       <div id="cabecera">
-      <center><p>Sítomas que se tienen que saber del Alcoholismo </p></center>
+      <center><p>Síntomas que se tienen que saber del Alcoholismo </p></center>
       </div>
       <div id="menu">
           <img style="border:15px solid; color: blue;"src="imagen/alco.jpg"aling="left" width="120px" height="180" alt="" >
-          <img style="border:15px solid; color: blue;"src="imagen/alll.jfif"aling="left" width="120px" height="170" alt="" >
+          <img style="border:15px solid; color: blue;"src="imagen/alll.jfif"aling="left" width="120px" height="160" alt="" >
           <img style="border:15px solid; color: blue;"src="imagen/bas.jpg"aling="left" width="120px" height="120" alt="" >
-          <img style="border:15px solid; color: blue;"src="imagen/alto.jpg"aling="left" width="120px" height="90" alt="" >
+          <img style="border:15px solid; color: blue;"src="imagen/atadura.jpg"aling="left" width="120px" height="90" alt="" >
       </div>
       <div id="contenido">
       <h1>SÍNTOMAS</h1><br>
