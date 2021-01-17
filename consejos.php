@@ -25,7 +25,7 @@
                     <li><a href="index.html">Cerrar Sesión</a>
                 </ul>
             </li>
-            <li><a href="conceptos.php">CONCEPTOS</a>
+            <li><a href="conceptos.php">SÍNTOMAS</a>
                 <ul>
                 <li><a href="alcoholismo.php">EL ALCOHOLISMO</a>
                 </li>
@@ -43,6 +43,18 @@
                 </ul>
             </li>
     </div>
-    <br>
+    <br></br></br>
+    <center><h1>Diez consejos para evitar el alcoholismo</h1></center><br>
+    1º Darse cuenta de que existe el problema</p>
+    2º Ponerse en manos de profesionales cualificados</p>
+    3º Buscar apoyo de la gente cercana</p>
+    4º Hacer deporte y comer sano</p>
+    5º Acudir a asociaciones</p>
+    6º Tolerancia cero</p>
+    7º Evitar malas compañías y lugares</p>
+    8º Buscar hobbys</p>
+    9º Ánimo, autoestima, convencimiento</p>
+    10º Tratamientos naturales</p>
+    <a href="leermas.php">LEER MÁS</a>
     </body>
 </html>
