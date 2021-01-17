@@ -24,7 +24,7 @@
                     <li><a href="index.html">Cerrar Sesión</a>
                 </ul>
             </li>
-            <li><a href="conceptos.php">CONCEPTOS</a>
+            <li><a href="conceptos.php">SÍNTOMAS</a>
                 <ul>
                 <li><a href="alcoholismo.php">EL ALCOHOLISMO</a>
                 </li>
@@ -43,5 +43,6 @@
             </li>
     </div>
     <br>
+    
     </body>
 </html>
