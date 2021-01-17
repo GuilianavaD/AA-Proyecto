@@ -4,10 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="stylee_alcoho.css">
+    <link rel="stylesheet" type="text/css" href="stylealho.css">
     <title>AA</title>
-    <style type="text/css">
-    </style>
     </head>
     <body style=background-image:url('imagen/fondoinvi.jpg width=100% height=100vh ')>
     <div id="header">
@@ -83,9 +81,9 @@
         de abstinencia cuando se suspende su consumo.</p><br>
         El alcohólico no tiene control sobre los límites de
         su consumo, y suele ir elevando a lo largo del
-        tiempo su grado de tolerancia al alcohol.<p><br><br>
+        tiempo su grado de tolerancia al alcohol.<p><br></br>
         <img style="border:10px solid; color: blue;float:center; margin-left:40px;"src="imagen/bas.jpg"width="300" height="150"  >
-        <center><h2 style="color:red";>Causas del Alcoholismo</h2><br></center>
+        <center><h2 style="color:red";>Causas del Alcoholismo</h2></br></center>
         Hasta el momento no existe una causa común
         conocida de esta adicción, aunque varios factores
         pueden desempeñar un papel importante en su
@@ -93,7 +91,7 @@
         tiene un padre o una madre con alcoholismo,
         tiene mayor probabilidad de adquirir está
         enfermedad, una puede ser el estrés o los
-        problemas que tiene la persona que lo ingiere.</p><br>
+        problemas que tiene la persona que lo ingiere.</p></br>
         Eso puede deberse, más que al entorno social,
         familiar o campañas publicitarias, a la presencia
         de ciertos genes que podrían aumentar el riesgo
@@ -129,14 +127,14 @@
         embriaguez o ebriedad. Es transitorio y
         consiste en una crisis pasajera que va desde la
         euforia a la tristeza, hasta la perdida de la
-        razón, mareos, nauseas y vómitos.</p><br>
+        razón, mareos, nauseas y vómitos.</p></br>
         •Alcoholismo crónico: Se produce por el
         consumo habitual de moderadas dosis de
         alcohol. El alcohólico presenta trastorno del
         carácter (desconfianza, irritabilidad, con
         periodos depresivos que pueden llevarlo al
         suicidio en algunos casos extremos). Todos los
-        órganos resultan afectados, sobre todo el
+        órganos resultan afectados,sobre todo el
         sistema nervioso. 
         </div> 
     
