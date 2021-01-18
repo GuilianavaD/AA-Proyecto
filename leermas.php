@@ -25,7 +25,7 @@
     </head>
     <body> <center>
  <div id="titulo">       
-<h1>Diez consejos para evitar el alcoholismo</h1><a href="consejos.php"><input type='submit' value='regresar'></a></div></center>
+<h1>Diez consejos para evitar el alcoholismo</h1><a href="consejos.php"><input type='submit' value='regresar'></a><a href="http://www.diezconsejos.com/diez-consejos-para-evitar-el-alcoholismo/"><input type='submit' value='referencia'></a></div></center>
 <div id="contendor">
     <p>En el apartado de las adicciones, el alcoholismo es una de las más habituales. Puede afectar 
     a cualquier persona, sea cual sea su estatus en la sociedad. Los adictos al alcohol corren riesgo de sufrir 
