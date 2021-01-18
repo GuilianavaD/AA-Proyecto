@@ -24,15 +24,15 @@
       }
       #contenido {
         background-color:#ddd;
-        float:right;
-        height:600px;
+        float:left;
+        height:500px;
         padding:10px;
-        width:auto;
+        width:560px;
       }
       #menu {
         background-color:#999;
         float:left;
-        height:400px;
+        height:480px;
         padding:20px;
-        width:auto;
+        width:180px;
       }
