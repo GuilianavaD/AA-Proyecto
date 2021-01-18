@@ -1,0 +1,32 @@
+#cuadro1{
+        background: rgb(238, 238, 245); 
+        color:blue;
+        padding:60px;
+        font-size:24px;
+        text-align: justify;  
+        height:300px;
+        width:auto;
+    }
+    #imagen{
+    position: relative;
+    }
+    .img {
+    position:absolute;
+    top:50px;
+    border:none;
+    float:center;
+    right:6%;
+    padding:40px;
+    opacity:0.3;
+    filter:alpha(opacity=40);
+    }
+    .imge{
+    position:absolute;
+    top:50px;
+    border:none;
+    float:center;
+    right:30%;
+    padding:40px;
+    opacity:0.3;
+    filter:alpha(opacity=40);
+    }
