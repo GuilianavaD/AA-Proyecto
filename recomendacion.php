@@ -79,7 +79,7 @@
    11.- Buscamos a través de la oración y la meditación mejorar nuestro contacto consciente con Dios, como nosotros lo
     concebimos, pidiéndole solamente que nos dejase conocer su voluntad para con nosotros y nos diese la fortaleza para cumplirla.</p><br>
    12.- Habiendo obtenido un despertar espiritual como resultado de estos pasos, tratamos de llevar el mensaje a los alcohólicos 
-   y de practicar estos principios en todos nuestros asuntos.</p><br>
+   y de practicar estos principios en todos nuestros asuntos.</p><br><a href="https://www.aanorthflorida.org/es/steps_es.asp"><input type='submit' value='referencia'></a>
 </h3>
 </body>
 </html>
