@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
     <meta charset="UTF-8">
+    <title>JavaScript inline</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>AA</title>
@@ -43,6 +44,6 @@
             </li>
     </div>
     <br>
-    
+    <img src='imagen/facas.jpg' onmouseover="this.src='imagen/refle.jpg'" onmouseout="this.src='imagen/facas.jpg'">
     </body>
 </html>
