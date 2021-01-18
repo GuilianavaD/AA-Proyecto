@@ -25,14 +25,14 @@
       #contenido {
         background-color:#ddd;
         float:left;
-        height:300px;
+        height:500px;
         padding:10px;
-        width:860px;
+        width:560px;
       }
       #menu {
         background-color:#999;
         float:left;
-        height:580px;
+        height:480px;
         padding:20px;
-        width:680px;
+        width:180px;
       }
