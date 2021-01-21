@@ -28,15 +28,15 @@
 <h1>Diez consejos para evitar el alcoholismo</h1><a href="consejos.php"><input type='submit' value='regresar'></a><a href="http://www.diezconsejos.com/diez-consejos-para-evitar-el-alcoholismo/"><input type='submit' value='referencia'></a></div></center>
 <div id="contendor">
     <p>En el apartado de las adicciones, el alcoholismo es una de las más habituales. Puede afectar 
-    a cualquier persona, sea cual sea su estatus en la sociedad. Los adictos al alcohol corren riesgo de sufrir 
+    a cualquier persona, sea cual sea su estatus en la sociedad.<br> Los adictos al alcohol corren riesgo de sufrir 
     graves problemas de salud, pero además, también perjudican a los que les rodean. Familiares, amigos y compañeros sufren
      también las consecuencias de este hábito tan nocivo. Es por eso que te ofrecemos diez consejos para dejar el alcohol.</p>
 <img src="imagen/alcoholicos1.jpg"aling="center" width="320px" height="180" alt="" >
  
 <h1>1º Darse cuenta de que existe el problema</h1>
 <p>Parecerá una tontería, pero el principal problema de un adicto es no reconocer su adicción. Muchos piensan que
- lo dejarán cuando quieran. Otros simplemente evitan cuestionarse sus hábitos. Sin embargo el primer paso para dejar de 
- beber es ser consciente del alcance del problema. Asumir que existe una dependencia y que es necesario abandonarla cuanto antes.
+ lo dejarán cuando quieran. <br>Otros simplemente evitan cuestionarse sus hábitos. Sin embargo el primer paso para dejar de 
+ beber es ser consciente del alcance del problema.<br> Asumir que existe una dependencia y que es necesario abandonarla cuanto antes.
   Y reconocer además que será imprescindible contar con ayuda. El alcoholismo es algo muy serio que debe ser tratado con rigor.</p>
 <h1>2º Ponerse en manos de profesionales cualificados</h1>
 <p>Para abandonar la adicción a las drogas o el alcohol, es necesario apoyarse en mucha gente.
@@ -93,7 +93,7 @@ propósito de dejar el alcohol. Llega el momento en que lo que importa es la pro
 <p>Otra de las principales premisas para tener éxito en dejar de beber, es estar lo más
  llenos posible de ánimo. Ser conscientes de que si otros han podido, nosotros también. En realidad es
   algo simple. A nadie le gusta estar inmerso en un estado de amargura, perjudicándose a sí mismo y los que
-   le rodean. Por lo tanto, qué ganamos bebiendo? Nada… Es una pérdida absoluta de tiempo, dinero, respeto, etc…
+   le rodean.<br> Por lo tanto, qué ganamos bebiendo? Nada… Es una pérdida absoluta de tiempo, dinero, respeto, etc…
     Los problemas existen, pero el alcohol nunca los resuelve. Los empeora. Además hay que olvidarse de los prejuicios.
      Asumir que hay un problema sin que importe el qué dirán los demás. Porque recuperar la vida que uno tenía antes de
       caer en las garras del alcohol, es posible. Y eso es lo que verdaderamente importa.</p>
