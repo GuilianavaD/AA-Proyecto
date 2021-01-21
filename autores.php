@@ -11,8 +11,8 @@
     padding:0;
     }
     body{
-        margin-left: 40px;
-        margin-right: 20px;
+        margin-left: 90px;
+        margin-right: 40px;
         margin-top: 0px;
         margin-bottom: 10px;
     }
@@ -35,6 +35,34 @@
      #th1{
         padding:5%; 
         float:left;
+     }
+     #div3{
+        background-color:#ddd;
+        float:right;
+        text-align: justify; 
+        height:340px;
+        padding:10px;
+        width:240px;
+     }
+     #div4{
+        background-color:#ddd;
+        float:right;
+        text-align: justify; 
+        height:220px;
+        padding:10px;
+        width:240px;
+     }
+     #div5{
+        background-color:#ddd;
+        float:right;
+        text-align: justify; 
+        height:260px;
+        padding:10px;
+        width:240px;
+     }
+     #th2{
+        padding:5%; 
+        float:right;
      }
     </style>
     </head>
@@ -98,7 +126,29 @@
     <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE1cHJpbWVyb21lZGlvYXxneDozYTJjOGNhMDBhNjdlY2Qw"><input type='submit' value='LibroPDF'></a>
      </div></th></tr>
     </table>
-    <a href="https://pnsd.sanidad.gob.es/profesionales/publicaciones/catalogo/bibliotecaDigital/publicaciones/pdf/1_Socigrupospsicoactivos2000.pdf">libro Alcohol - Plan Nacional sobre Drogas</a>
+    <br>
+    <table><tr><th  id="th2">
+    <div id="div3">
+    <h1>Daniel Schreiber</h1>
+    <a href="imagen/daniel_alcohol.jfif"><img src="imagen/daniel_alcohol.jfif"aling="left" width="230px" height="180" alt="" ></a><br clear="right">
+    Daniel Schreiber nació en Mecklemburgo en 1977. Es escritor y periodista. Trabaja como crítico de....
+  <br><a href="leerdaniel.php"><input type='submit' value='leer más'></a>&nbsp;
+    <a href="https://www.elboomeran.com/upload/ficheros/obras/ultima_copa.pdf"><input type='submit' value='LibroPDF'></a>
+    </div></th></tr>
+    <tr><th id="th2">
+    <div id ="div4">
+    <h1>Anónimos</h1>
+    <a href="imagen/anonimoli.jpg"><img src="imagen/anonimoli.jpg"aling="left" width="180px" height="140" alt="" ></a>
+    <a href="http://aatalca.org/files/Llegamos%20A%20Creer.pdf"><input type='submit' value='LibroPDF'></a>
+     </div></th></tr>
+     <tr><th id="th2">
+    <div id ="div5">
+    <h2>Bill W.</h2>
+    <a href="imagen/bill.jfif"><img src="imagen/bill.jfif"aling="left" width="210px" height="140" alt="" ></a><br>
+    Bill W., cofundador de Alcohólicos Anónimos, escribió más de 150 artículos entre los años 1944 y 1970...<br><a href="leerbill.php"><input type='submit' value='leer más'></a>&nbsp;
+    <a href="http://www.aaserenidadtrupe.org/libro/el_lenguaje_del_corazon.pdf"><input type='submit' value='LibroPDF'></a>
+     </div></th></tr>
+    </table>
     </body>
   
 </html>
