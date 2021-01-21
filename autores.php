@@ -19,11 +19,23 @@
      #div1{
         background-color:#ddd;
         float:left;
+        text-align: justify; 
+        height:380px;
+        padding:10px;
+        width:240px;
+     }
+     #div2{
+        background-color:#ddd;
+        float:left;
+        text-align: justify; 
         height:360px;
         padding:10px;
         width:240px;
      }
-
+     #th1{
+        padding:5%; 
+        float:left;
+     }
     </style>
     </head>
     <body>
@@ -59,19 +71,33 @@
                     <li><a href="libros.php">LIBROS</a>
                 </ul>
             </li>
-    </div>
-    <br>
-    <br>
-    <br>
+    </div><br>
+    <table><tr><th  id="th1">
     <div id="div1">
     <h1>Wayne Dyer</h1>
-    <a href="imagen/Wayne-Dyer-Tus-Zonas-Erróneas.jpg"><img src="imagen/Wayne-Dyer-Tus-Zonas-Erróneas.jpg"aling="left" width="150px" height="180" alt="" ></a><br clear="right"> Psicólogo americano, Wayne Walter Dyer pasó su infancia y 
+    <a href="imagen/Wayne-Dyer-Tus-Zonas-Erróneas.jpg"><img src="imagen/Wayne-Dyer-Tus-Zonas-Erróneas.jpg"aling="left" width="170px" height="180" alt="" ></a><br clear="right"> Psicólogo americano, Wayne Walter Dyer pasó su infancia y 
     juventud en orfanatos y hogares de acogida hasta graduarse.
      Tras pasar cuatro años en la Armada Estadounidense, obtuvo el título 
-    de Doctor de la Educación en la Universidad Estatal de Wayne y...<br><a href=""><input type='submit' value='leer más'></a>&nbsp;
+    de Doctor de la Educación en la Universidad Estatal de Wayne y...<br><a href="leerwayne.php"><input type='submit' value='leer más'></a>&nbsp;
     <a href="https://drive.google.com/file/d/0B03wpsYDfyLValNyVHM5aE4ySzA/view"><input type='submit' value='LibroPDF'></a>
- 
-    </div>
+    </div></th></tr>
+    <tr><th id="th1">
+    <div id ="div2">
+    <h1>William Fergus Martin</h1>
+    <a href="imagen/tn_4stepscoverspanish2.jpg"><img src="imagen/tn_4stepscoverspanish2.jpg"aling="left" width="100px" height="140" alt="" ></a><img src="imagen/willian_fergus_martin.jfif"aling="left" width="120px" height="140" alt="" >
+    William Fergus Martin es un autor independiente, orador y líder de talleres que ayuda a
+     las personas a empoderarse a sí mismas. Él es escocés y está casado con una dama japonesa...<br><a href="leerwillian.php"><input type='submit' value='leer más'></a>&nbsp;
+    <a href="https://globalforgivenessinitiative.com/user/pages/download/Cuatro-Pasos-para-el-Perdon-William-Fergus-Martin.pdf"><input type='submit' value='LibroPDF'></a>
+     </div></th></tr>
+     <tr><th id="th1">
+    <div id ="div2">
+    <h2>Carlos Cuauhtémoc Sánchez</h2>
+    <a href="imagen/carlos.jpg"><img src="imagen/carlos.jpg"aling="left" width="220px" height="140" alt="" ></a>
+   Escritor mexicano. Licenciado en Ingeniería y catedrático de Dirección de Empresas y Ciencias Exactas, por sus libros sobre la familia, el perdón,
+   la fe y la formación del carácter ha sido definido como uno de los guías éticos de moda para la juventud...<br><a href="leercarloscautemoc.php"><input type='submit' value='leer más'></a>&nbsp;
+    <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE1cHJpbWVyb21lZGlvYXxneDozYTJjOGNhMDBhNjdlY2Qw"><input type='submit' value='LibroPDF'></a>
+     </div></th></tr>
+    </table>
     <a href="https://pnsd.sanidad.gob.es/profesionales/publicaciones/catalogo/bibliotecaDigital/publicaciones/pdf/1_Socigrupospsicoactivos2000.pdf">libro Alcohol - Plan Nacional sobre Drogas</a>
     </body>
   
