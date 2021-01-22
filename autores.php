@@ -11,10 +11,14 @@
     padding:0;
     }
     body{
-        margin-left: 90px;
-        margin-right: 40px;
+        margin-left: 10px;
+        margin-right:10px;
         margin-top: 0px;
         margin-bottom: 10px;
+    }
+    #contenedor{
+        margin-left: 360px;
+        margin-right:360px;
     }
      #div1{
         background-color:#ddd;
@@ -64,9 +68,16 @@
         padding:5%; 
         float:right;
      }
+     #cuer{
+         position:absolute;
+     }
+     #cuerp{
+        bottom: -390px;
+        float:right;
+     }
     </style>
     </head>
-    <body>
+    <body style=background-image:url(imagen/fondoinvi.jpg width=300% height=100% )>
     <div id="header">
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
@@ -99,7 +110,9 @@
                     <li><a href="libros.php">LIBROS</a>
                 </ul>
             </li>
-    </div><br>
+    </div><br><br>
+    <div id="contenedor">
+    <div id="cuerp">
     <table><tr><th  id="th1">
     <div id="div1">
     <h1>Wayne Dyer</h1>
@@ -125,8 +138,8 @@
    la fe y la formación del carácter ha sido definido como uno de los guías éticos de moda para la juventud...<br><a href="leercarloscautemoc.php"><input type='submit' value='leer más'></a>&nbsp;
     <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE1cHJpbWVyb21lZGlvYXxneDozYTJjOGNhMDBhNjdlY2Qw"><input type='submit' value='LibroPDF'></a>
      </div></th></tr>
-    </table>
-    <br>
+    </table></div>
+    <br><div id="cuer">
     <table><tr><th  id="th2">
     <div id="div3">
     <h1>Daniel Schreiber</h1>
@@ -148,7 +161,7 @@
     Bill W., cofundador de Alcohólicos Anónimos, escribió más de 150 artículos entre los años 1944 y 1970...<br><a href="leerbill.php"><input type='submit' value='leer más'></a>&nbsp;
     <a href="http://www.aaserenidadtrupe.org/libro/el_lenguaje_del_corazon.pdf"><input type='submit' value='LibroPDF'></a>
      </div></th></tr>
-    </table>
+    </table></div></div>
     </body>
   
 </html>
