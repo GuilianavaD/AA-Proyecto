@@ -74,16 +74,16 @@
     <br>
     <br></br> <br></br> 
     <div id ="div2">
-        <h1>MISIÓN</h1>
-    Nuestra misión con este trabajo es que no se caíga en esta enfermedad, que está atrapando a varias personas de diferentes edades.<p>
-    Pero se puede ayudar con profesionales, en grupos de reabilitación como Alcohólico Anónimos.<p><br>
+       <center> <h1>MISIÓN</h1></center>
+    Nuestra misión con este trabajo, es que no se caígan en esta enfermedad, que está atrapando a varias personas de diferentes edades.<p>
+    Pero se pueden ser ayudados por profesionales, en grupos de reabilitación como Alcohólico Anónimos.<p><br>
     <center><img src="imagen/alcoholl.jpg" height="320px" width="250px"></center>
     </div>
     <br><br><br> <div id ="div3">
     <img src='imagen/facas.jpg' height="400px" width="430px"></div>
     <br><br><br>    <center><img src="imagen/descarga.jfif" height="450px" width="550px" alt=""></center> &nbsp; </br> </br>
     <div id ="div4">
-        <h1>VISIÓN</h1>
+     <center>   <h1>VISIÓN</h1></center>
     Nuestra visión es que esta comunidad este unida con todas las personas que esten un problema con el alcohol o algún familiar,conocido lo padesca, para eso es  necesario enfrentarlos 
     con valentia y entusiasmo, ya que es una lucha constante.<p><br>
     <center><img src="imagen/alcohol.jfif" height="320px" width="280px"></center>
