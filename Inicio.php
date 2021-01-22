@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="styleinicio.css">
     <title>AA</title>
     </head>
-    <body>
+    <body >
     <div id="header">
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
@@ -46,7 +46,7 @@
    <br>
    <div>
     <div class="slider">
-        <ul><li><img src="imagen/refle.jpg" height="450px" width="500px" align="right" alt=""></li> &nbsp; 
+        <ul><li><img src="imagen/refle.jpg" height="450px" width="600px" align="right" alt=""></li> &nbsp; 
             <li ><img src="imagen/alto.jpg" height="450px" width="500px" align="right" alt=""></li> &nbsp; 
             <li><img src="imagen/stop.jpg" height="450px" width="500px"align="right" alt=""></li> &nbsp; </br> </br>
             <li><img src="imagen/grupo.jpg" height="450px" width="500px"align="right"  alt=""></li> &nbsp; 
