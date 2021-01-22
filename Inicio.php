@@ -11,15 +11,15 @@
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
                 <ul>
-                    <li><a href="Informacion.php">INFORMACIÓN</a>
+                    <li><a href="misivisi.php">MISIÓN Y VISIÓN</a>
                 
                     </li>
-                    <li><a href="contacto.php">CONTACTOS</a>
+                    <li><a href="Informacion.php">INFORMACIÓN</a>
                     
                     </li>
-                    <li><a href="misivisi.php">MISIÓN Y VISIÓN</a>
+                    <li><a href="contacto.php">CONTACTOS</a>
                     </li>
-                    <li><a href="index.html">Cerrar Sesión</a>
+                    <li><a href="index.html">CERRAR SESIÓN</a>
                 </ul>
             </li>
             <li><a href="conceptos.php">SÍNTOMAS</a>
@@ -61,13 +61,13 @@
                     <th>
                         <center><td>
         <h2>LIBERATE DE LAS ATADURAS</h2>
-        <img style="border:15px solid; color: blue;"src="imagen/alco.jpg"aling="left" width="250px" height="320" alt="" ></td>
-        <td><h1>TÚ PUEDES!!!</h1>   
-        <img style="border:15px solid; color: blue;"src="imagen/derota.jpg"aling="left"  width="250px" height="320" alt="" >
+        <img style="border:15px solid; color: blue;"src="imagen/alco.jpg"aling="left" width="150px" height="320" alt="" ></td>
+        <td><h2>TÚ PUEDES!!!</h2>   
+        <img style="border:15px solid; color: blue;"src="imagen/derota.jpg"aling="left"  width="150px" height="320" alt="" >
         </td> 
         <td>
-        <h1>TIENES UNA VIDA NO, <br> TE RINDAS</h1>
-            <img style="border:15px solid; color: blue;"src="imagen/muerteal.jpg" aling="left"  width="250px" height="320" alt="" >
+        <h2>TIENES UNA VIDA NO, <br> TE RINDAS</h2>
+            <img style="border:15px solid; color: blue;"src="imagen/muerteal.jpg" aling="left"  width="150px" height="320" alt="" >
                   </td>  </center>
                     </th>
                </tr>
