@@ -12,15 +12,15 @@
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
                 <ul>
-                    <li><a href="Informacion.php">INFORMACIÓN</a>
+                    <li><a href="misivisi.php">MISIÓN Y VISIÓN</a>
                 
                     </li>
-                    <li><a href="contacto.php">CONTACTOS</a>
+                    <li><a href="Informacion.php">INFORMACIÓN</a>
                     
                     </li>
-                    <li><a href="misivisi.php">MISIÓN Y VISIÓN</a>
+                    <li><a href="contacto.php">CONTACTOS</a>
                     </li>
-                    <li><a href="index.html">Cerrar Sesión</a>
+                    <li><a href="index.html">CERRAR SESIÓN</a>
                 </ul>
             </li>
             <li><a href="conceptos.php">SÍNTOMAS</a>
@@ -68,7 +68,7 @@
         *Daño en la salud física</br>
         <br><h2 style="color:red";>Signos de alarma </h2></br>
         *Incapacidad de detenerse y/o abstenerse al
-        consumo de alcohol. </br><img style="border:10px solid; color: blue;float:right; margin-right:10px;"src="imagen/Alcoholis.jpg"width="320" height="140"  >
+        consumo de alcohol. <br><br></br><img style="border:10px solid; color: blue;float:right; margin-right:10px;"src="imagen/Alcoholis.jpg"width="320" height="140"  >
         </div>
         <div id="otrolado"> 
         <h2 style="color:red";>
@@ -82,8 +82,8 @@
         El alcohólico no tiene control sobre los límites de
         su consumo, y suele ir elevando a lo largo del
         tiempo su grado de tolerancia al alcohol.<p><br></br>
-        <img style="border:10px solid; color: blue;float:center; margin-left:40px;"src="imagen/bas.jpg"width="300" height="150"  >
-        <center><h2 style="color:red";>Causas del Alcoholismo</h2></br></center>
+        <img style="border:10px solid; color: blue;float:center; margin-left:40px;"src="imagen/bas.jpg"width="300" height="150"  ><br>
+        <br><center><h2 style="color:red";>Causas del Alcoholismo</h2></br></center>
         Hasta el momento no existe una causa común
         conocida de esta adicción, aunque varios factores
         pueden desempeñar un papel importante en su
@@ -120,9 +120,9 @@
         madre durante el periodo de gestación, por lo
         que se arriesga a dar a luz a un bebé con
         deficiencias mentales y físicas para el resto de
-        su vida. </p>
-        <img style="border:10px solid; color: blue;float:center; margin-left:30px;"src="imagen/aler.jpg"width="250" height="140"  >
-        <h2 style="color:red";>Existen 2 formas de alcoholismo:</h2></br>
+        su vida. </p><br>
+        <img style="border:10px solid; color: blue;float:center; margin-left:30px;"src="imagen/aler.jpg"width="250" height="140"  ><br>
+        <br><h2 style="color:red";>Existen 2 formas de alcoholismo:</h2></br>
         •Alcoholismo Agudo: Llamado también
         embriaguez o ebriedad. Es transitorio y
         consiste en una crisis pasajera que va desde la
