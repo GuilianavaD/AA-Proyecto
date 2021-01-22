@@ -18,7 +18,7 @@
         width:auto;
       }
     p{
-        background-color: rgb(188, 187, 243); 
+  
         text-align: justify; 
     }
     </style>
@@ -31,7 +31,7 @@
     a cualquier persona, sea cual sea su estatus en la sociedad.<br> Los adictos al alcohol corren riesgo de sufrir 
     graves problemas de salud, pero además, también perjudican a los que les rodean. Familiares, amigos y compañeros sufren
      también las consecuencias de este hábito tan nocivo. Es por eso que te ofrecemos diez consejos para dejar el alcohol.</p>
-<img src="imagen/alcoholicos1.jpg"aling="center" width="320px" height="180" alt="" >
+<center><img src="imagen/alcoholicos1.jpg"aling="center" width="320px" height="180" alt="" ></center>
  
 <h1>1º Darse cuenta de que existe el problema</h1>
 <p>Parecerá una tontería, pero el principal problema de un adicto es no reconocer su adicción. Muchos piensan que
@@ -56,7 +56,7 @@
  dietas especiales para personas con problemas de alcoholismo. Lo mejor es preguntarle al equipo médico 
  que vaya a realizar el seguimiento del paciente. Además, hacer deporte servirá como gran ayuda para superar 
  cualquier adicción. Ocupará parte del tiempo del paciente, brindándole un bienestar tanto mental como físico.</p>
-<img src="imagen/hacer-deporte2.jpg"aling="center" width="320px" height="180" alt="" >
+<center><img src="imagen/hacer-deporte2.jpg"aling="center" width="320px" height="180" alt="" ></center>
  
 
 <h1>5º Acudir a asociaciones</h1>
@@ -81,7 +81,7 @@ propósito de dejar el alcohol. Llega el momento en que lo que importa es la pro
   tenemos un compañero de borracheras, lo mejor es evitarle. O en todo caso, convencerle y buscar la ayuda mutua para 
   salir juntos del problema. Y si hay lugares en los cuales el alcohólico consumía habitualmente, también hay que tratar
    de evitar acudir a ellos.</p>
-<img src="imagen/bares3.jpg"aling="center" width="320px" height="180" alt="" > 
+<center><img src="imagen/bares3.jpg"aling="center" width="320px" height="180" alt="" > </center>
 
 <h1>8º Buscar hobbys</h1>
 <p>Un alcohólico debe ocupar su vida con cosas que le llenen. Como ya hemos comentado, el deporte
@@ -102,7 +102,7 @@ propósito de dejar el alcohol. Llega el momento en que lo que importa es la pro
 <p>El tratamiento médico puede ir acompañado de otros tratamientos de carácter natural, como pueden 
 ser la acupuntura, la hipnoterapia, los masajes o la meditación. Por sí solos, estos tratamientos no servirán 
 para abandonar la adicción, pero si pueden ser una excelente ayuda complementaria.</p>
-<img src="imagen/masajes4.jpg"aling="center" width="320px" height="180" alt="" >
+<center><img src="imagen/masajes4.jpg"aling="center" width="320px" height="180" alt="" ></center>
 </div>
 
     </body>
