@@ -18,7 +18,7 @@
         font-family:verdana;
       }
       h1 {
-        color:#c0c;
+        color:white;
         font-size:24px;
       }
       p {
