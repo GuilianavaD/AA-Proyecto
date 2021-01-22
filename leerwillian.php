@@ -27,11 +27,11 @@
       }
     </style>
     </head>
-    <body>
+    <body><center>
         <div id="cabe">
-    <h1>&nbsp;&nbsp;&nbsp;UN POCO DE SU BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div>
+    <h1>&nbsp;&nbsp;&nbsp;UN POCO DE SU BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div></center>
     <table><tr><th>
-    <h1>William Fergus Martin </h1>    <img style="border-radius: 20px;"src="imagen/willian_fergus_martin.jfif"aling="right" width="290px" height="180" alt="" ><br>William Fergus Martin es un autor independiente, orador y líder de talleres que ayuda a las
+    <center><h1>William Fergus Martin </h1>    <img style="border-radius: 20px;"src="imagen/willian_fergus_martin.jfif"aling="right" width="290px" height="180" alt="" ></center><br>William Fergus Martin es un autor independiente, orador y líder de talleres que ayuda a las
     personas a empoderarse a sí mismas.<br><p> Él es escocés y está casado con una dama japonesa.
     Ha viajado extensamente y su escritura está influenciada por una apreciación de los desafíos
     comunes que enfrentan las personas en todas partes del mundo. <br><p>
