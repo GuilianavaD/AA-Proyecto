@@ -27,12 +27,13 @@
       }
     </style>
     </head>
-    <body>
+    <body><center>
         <div id="cabe">
-    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div>
+    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div></center>
     <table><tr><th>
-    <img style="border-radius: 20px;"src="imagen/WayneDyerByPhilKonstantin.jpg"aling="left" width="290px" height="180" alt="" >
-    <h1>Wayne Walter Dyer</h1> (Detroit, Míchigan; 10 de mayo de 1940 - Condado de Maui, Hawái; 29 de agosto de 2015)
+    <center><h1>Wayne Walter Dyer</h1>
+    <img style="border-radius: 20px;"src="imagen/WayneDyerByPhilKonstantin.jpg"aling="left" width="290px" height="180" alt="" ></center>
+    <br>Wayne Walter Dyer (Detroit, Míchigan; 10 de mayo de 1940 - Condado de Maui, Hawái; 29 de agosto de 2015)
      fue un psicólogo y escritor de libros de autoayuda estadounidense.<br><p>
      Nació en Detroit en 1940, en un barrio pobre. Creció como huérfano y fue cuidado por un tío. Sirvió en la Marina estadounidense 
      antes de estudiar en la Wayne State University, donde obtuvo su doctorado en psicología.<br><p> Trabajaba como profesor en la St. John's University 
