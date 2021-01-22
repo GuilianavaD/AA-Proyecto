@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>AA</title>
     <style type="text/css">
-    body{
+    body{ background-color:#E8F4FA;
         margin-left: 40px;
         margin-right: 40px;
     }
@@ -27,7 +27,7 @@
       }
     </style>
     </head>
-    <body>
+    <body >
     <div id="header">
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
