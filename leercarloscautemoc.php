@@ -26,9 +26,9 @@
       }
     </style>
     </head>
-    <body>
+    <body><center>
         <div id="cabe">
-    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA Y OBRAS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div>
+    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA Y OBRAS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div></center>
     <table><tr><th>
     <h1> Carlos Cuauhtémoc Sánchez</h1> 
    (México, 1964) Escritor mexicano. Licenciado en Ingeniería y catedrático de Dirección de Empresas y Ciencias Exactas, por sus libros
