@@ -28,8 +28,8 @@
     </style>
     </head>
     <body>
-        <div id="cabe">
-    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div>
+     <center>   <div id="cabe">
+    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div></center>
     <table><tr><th>
      <center><h1>Daniel Schreiber</h1> 
    <img style="border-radius: 20px;"src="imagen/daniel_ultima.jpg"aling="left" width="390px" height="180" alt="" ></center><p>
