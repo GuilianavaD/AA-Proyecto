@@ -27,9 +27,9 @@
       }
     </style>
     </head>
-    <body>
+    <body><center>
         <div id="cabe">
-    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div>
+    <h1>&nbsp;&nbsp;&nbsp;BIOGRAFÍA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="autores.php"><input type='submit' value='regresar'></a></h1> </div></center>
     <table><tr><th>
      <center><h1>Bill W.</h1> 
    <img style="border-radius: 20px;"src="imagen/bill-w-alcoholics-anonymous-header.jpg"aling="left" width="340px" height="200" alt="" ></center><p>
