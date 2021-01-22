@@ -14,7 +14,7 @@
         margin-left: 30px;
         margin-right: 55px;
         margin-bottom: 30px;
-        background:#CEF6F5;
+        background:#E8F4FA;
         font-family:verdana;
       }
       h1 {
