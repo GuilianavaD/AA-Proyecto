@@ -4,17 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <title>AA</title>
     <style type="text/css">
-        div{
-          
+        body{
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+       #divv{
             background-color: lightblue;
             margin: 10px;
         }
 
     </style>
     </head>
-    <body style=background-image:url('imagen/fondoinvi.jpg width=100% height=100vh ')>
+    <body style=background-image:url(imagen/fondoinvi.jpg width=100% height=100vh)>
     <div id="header">
         <ul class="nav">
             <li><a href="Inicio.php">INICIO</a>
@@ -48,23 +55,31 @@
                 </ul>
             </li>
     </div>
-    <br>
-    <br>
-    <br>
+    <div id=divv class="box_form">
+    <center><form method="post" action="Inicio.php">
+    <h2>¿DEJANOS ALGÚN COMENTARIO?</h2><p>
+        <input type="text" name="name" placeholder="Nombre"><p>
+        <textarea id="opinion" name="contenido"onkeyup="actualizaInfo(100)" rows="10" cols="40" placeholder="EMPIEZA"></textarea>
+      <input type="submit"value="Enviar"><p>  &nbsp;&nbsp;
+        <img style="border-radius: 20px;"src="imagen/eee.jfif" width="390px" height="250">
+    </form></center>
     <div>
-    <center><h2>NOS PUEDE CONTACTAR AL SIGUIENTE TELÉFONO "940717714"
-        <p> Y SIGUENOS POR FACEBOOK <a href="https://www.facebook.com/aaenperu/">AA en Perú</a>
-    </h2>
+    <br>
+    <div id=divv >
+    <center> <h2>NOS PUEDES CONTACTAR AL SIGUIENTE TELÉFONO "940717714"
+        <p> Y SIGUENOS POR FACEBOOK <a href="https://www.facebook.com/aaenperu/">AA en Perú</a>  </h2></center>
     </div>
+    <br><center>
+    <div id=divv>
+     <h2> <br clear="right"><pr>ESTAMOS DISPONIBLES LAS 24 HORAS AL DÍA,SI TIENES ALGÚN PROBLEMA<p> ¡NO DUDES EN LLAMARNOS!!!<p> ¡LA UNIÓN HACE LA FUERZA!.</h2>
+    <center><div id=divv><img style="border-radius: 20px;border:15px solid; color: blue;"src="imagen/atadura.jpg"width="150" height="150"  >
+     <img style="border-radius: 20px;border:15px solid; color: blue;"src="imagen/exi.jfif"width="130" height="150"  >
+     <img style="border-radius: 20px;border:15px solid; color: blue;"src="imagen/alto.jpg"width="150" height="150"  ></div></center> </div></center>
     <br>
-    <div align="left"> <p>
-      <img style="border:15px solid; color: blue;float:left; margin-right:20px;"src="imagen/atadura.jpg"width="450" height="263"  >
-     <h2> <br clear="right"><pr>ESTAMOS DISPONIBLES LAS 24 HORAS AL DÍA, <p>SI TIENES ALGÚN PROBLEMA ¡NO DUDES EN LLAMARNOS!!<p> LA UNIÓN HACE LA FUERZA.</h2>
-     <img style="border:15px solid; color: blue;float:left;margin-right:30px;"src="imagen/exi.jfif"width="350" height="150"  >
-     <img style="border:15px solid; color: blue;float:left;"src="imagen/alto.jpg"width="300" height="150"  > 
-    </div>
+    <center><h3>Escribenos: <a href="https://twitter.com/login?lang=es">Twitter:@guiliana_cw21</a> &nbsp;&nbsp;<a href="https://www.google.com/intl/es/gmail/about/">Correo:gvalercii@gmail.com</a></h3></center>
     <br>
-    <h3 align="left"><a href="https://twitter.com/login?lang=es">Twitter:@guiliana_cw21</a>  &nbsp;  &nbsp;     &nbsp; <a href="https://www.google.com/intl/es/gmail/about/">Correo:gvalercii@gmail.com</a></h3></center>
-    <br>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
     </body>
 </html>
