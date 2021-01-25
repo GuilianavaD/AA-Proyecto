@@ -84,7 +84,7 @@
     <br><br><br>    <center><img src="imagen/descarga.jfif" height="450px" width="550px" alt=""></center> &nbsp; </br> </br>
     <div id ="div4">
      <center>   <h1>VISIÓN</h1></center>
-    Nuestra visión es que esta comunidad este unida con todas las personas que esten un problema con el alcohol o algún familiar,conocido lo padesca, para eso es  necesario enfrentarlos 
+    Nuestra visión es que esta comunidad este unida, en confraternidad con todas las personas que esten en un problema con el alcohol o algún familiar,conocido que lo padesca, para eso es  necesario enfrentarlos 
     con valentia y entusiasmo, ya que es una lucha constante.<p><br>
     <center><img src="imagen/alcohol.jfif" height="320px" width="280px"></center>
     </div>
