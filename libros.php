@@ -77,7 +77,8 @@
     <br>
     <a href="https://pnsd.sanidad.gob.es/profesionales/publicaciones/catalogo/bibliotecaDigital/publicaciones/pdf/1_Socigrupospsicoactivos2000.pdf">libro Alcohol - Plan Nacional sobre Drogas</a><br><p>
     <br>
-     </table></tr></th><br>
+     </table>
+      <br>
 <div id="pie">
     hola
     </div>
