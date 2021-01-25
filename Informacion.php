@@ -2,6 +2,16 @@
 <html lang="en">
     <head>
     <meta charset="UTF-8">
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
    
@@ -44,17 +54,18 @@
     <br>
     <br>
     <br>
-    <center><h1 style="color:#24c0e7">Información Sobre Alcohólicos Anónimos</h1>
+    <center><h2 style="color:#24c0e7">Información Sobre Alcohólicos Anónimos</h2>
     <br>
-    <p>
-   
-    <h2 style="color:green">Esta información es tanto para gente que pueda tener un 
+    <h4 style="color:green">Esta información es tanto para gente que pueda tener un 
     problema <p>con la bebida como para aquellos que están en contacto<p> con 
-    gente que tiene, o se sospecha que tiene, un problema.</h2>
+    gente que tiene, o se sospecha que tiene, un problema.</h4>
     </p>
     <br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZjQcmRrGcY"
          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+           <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.min.js"></script>
      </body>
 </html>
