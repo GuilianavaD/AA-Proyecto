@@ -76,7 +76,7 @@
     <div id ="div2">
        <center> <h1>MISIÓN</h1></center>
     Nuestra misión con este trabajo, es que no se caígan en esta enfermedad, que está atrapando a varias personas de diferentes edades.<p>
-    Pero se pueden ser ayudados por profesionales, en grupos de reabilitación como Alcohólico Anónimos.<p><br>
+    Pero pueden ser ayudados por profesionales, en grupos de reabilitación como Alcohólico Anónimos, son asociaciones que dan ayuda a las personas que quieren ser ayudadas.<p><br>
     <center><img src="imagen/alcoholl.jpg" height="320px" width="250px"></center>
     </div>
     <br><br><br> <div id ="div3">
