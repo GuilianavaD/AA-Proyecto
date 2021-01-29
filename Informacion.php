@@ -16,6 +16,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
    
     <title>AA</title>
+    <style type="text/css">
+     body{ background-color:#E8F4FA;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    h5{
+        text-align: justify; 
+        color:#000;
+    }
+     </style>
     </head>
     <body>
     <div id="header">
@@ -54,18 +64,51 @@
     <br>
     <br>
     <br>
-    <center><h2 style="color:#24c0e7">Información Sobre Alcohólicos Anónimos</h2>
+    <center><h2 style="color:#24c0e7 ">Información Sobre Alcohólicos Anónimos</h2></center>
     <br>
-    <h4 style="color:green">Esta información es tanto para gente que pueda tener un 
-    problema <p>con la bebida como para aquellos que están en contacto<p> con 
+    <h4 style="color:green;text-align: justify ">Esta información es tanto para gente que pueda tener un 
+    problema con la bebida como para aquellos que están en contacto con 
     gente que tiene, o se sospecha que tiene, un problema.</h4>
     </p>
-    <br>
+    <br><center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZjQcmRrGcY"
          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
            <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="js/materialize.min.js"></script>
+
+
+    <a href="enfermedades.php"><center><h2>Enfermedades causadas por el alcohol</h2></center></a>
+    <h5>Hay más de tres millones de muertes al año por consumo de alcohol en el mundo.
+     Muchas personas enferman a consecuencia de sus efectos nocivos. Muchas de las enfermedades que causa son mortales. 
+
+Las consecuencias más inmediatas para la salud impactan directamente en el corazón,el hígado y el sistema nervioso.
+ A corto plazo crea problemas de memoria y disfunciones sexuales.</h5>
+ <center><img style="border-radius: 20px;"src="imagen/enfermedades-causadas-por-el-alcohol_45225_l.jpg"width="400px" height="200" alt="" ></center>
      </body>
 </html>
+<!-- cookis -->
+<!-- <?php 
+    session_start();
+
+    if (isset($_SESSION['initiated']))
+    {
+        session_regenerate_id();
+        $_SESSION['initiated'] = 1;
+    }
+
+    if (!isset($_SESSION['count']))
+        $_SESSION['count']=0;
+    else
+        ++$_SESSION['count'];
+
+    echo $_SESSION['count'];
+    function destroy_session_and_data()
+    {
+        //session_start();
+        $_SESSION = array();
+        setcookie(session_name(), '', time()-2592000, '/');
+        session_destroy();
+    }
+?> -->
