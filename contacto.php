@@ -57,7 +57,7 @@
     </div>
     <div id=divv class="box_form">
     <center><form method="post" action="Inicio.php">
-    <h2>¿DEJANOS ALGÚN COMENTARIO?</h2><p>
+    <h2>DEJANOS ALGÚN COMENTARIO</h2><p>
         <input type="text" name="name" placeholder="Nombre"><p>
         <textarea id="opinion" name="contenido"onkeyup="actualizaInfo(100)" rows="10" cols="40" placeholder="EMPIEZA"></textarea>
       <input type="submit"value="Enviar"><p>  &nbsp;&nbsp;
