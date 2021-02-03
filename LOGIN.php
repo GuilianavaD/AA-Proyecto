@@ -1,5 +1,6 @@
 <?php
- $conexion = new mysqli('localhost', 'root','', 'diario',3310);
+ require_once 'login.php';
+ $conexion = new mysqli($hn, $un, $pw, $db);
  if ($conexion->connect_error) die ("Fatal error");
 ECHO "<center><h1>BIENVENIDOS A ALCOHÓLICOS ANÓNIMOS (AA)</h1>";
 echo <<<_END
