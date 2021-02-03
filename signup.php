@@ -1,5 +1,6 @@
 <?php 
-   $conexion = new mysqli('localhost', 'root','', 'diario',3310);
+   require_once 'login.php';
+   $conexion = new mysqli($hn, $un, $pw, $db);
     if ($conexion->connect_error) die ("Fatal error");
     if(isset($_POST['username']) && isset($_POST['password']))
     {
