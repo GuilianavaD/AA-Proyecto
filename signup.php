@@ -16,9 +16,9 @@
     }
         echo <<<_END
         <head>
-        <title>DIARIO PERSONAL</title>
+        <title>AA</title>
         </head>
-        <body bgcolor=" pink">
+        <body style=background-image:url('imagen/fondoli.jpg width=100% height=100vh ')>
         <center><h1>Regístrate</h1>
         <form action="login.php" method="post"><pre>
         Nombre    <input type="text" name="nombre">
@@ -27,7 +27,7 @@
         Password  <input type="password" name="password">
                   <input type="hidden" name="reg" value="yes">
                   <input type="submit" value="REGISTRAR"> 
-                  <img src="image/registro.png" width="350" height="180" "aling="right">
+                  <img src="imagen/images (1).jfif" width="450" height="380" "aling="right">
         </form>
         </body>
         _END;
