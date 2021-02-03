@@ -19,7 +19,7 @@
                     </li>
                     <li><a href="contacto.php">CONTACTOS</a>
                     </li>
-                    <li><a href="index.html">CERRAR SESIÓN</a>
+                    <li><a href="logout.php">CERRAR SESIÓN</a>
                 </ul>
             </li>
             <li><a href="conceptos.php">SÍNTOMAS</a>
