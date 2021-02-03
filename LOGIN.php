@@ -1,20 +1,20 @@
 <?php
  $conexion = new mysqli('localhost', 'root','', 'diario',3310);
  if ($conexion->connect_error) die ("Fatal error");
-ECHO "<center><h1>DIARIO PERSONAL</h1>";
+ECHO "<center><h1>BIENVENIDOS A ALCOHÓLICOS ANÓNIMOS (AA)</h1>";
 echo <<<_END
 <html>
     <head>
-        <title>DIARIO PERSONA</title>
+        <title>AA</title>
     </head>
-    <body bgcolor=" pink">
+    <body style=background-image:url('imagen/fondoinvi.jpg width=100% height=100vh ')>
     <div class="box_form">
-    <form method="post" action="contenido.php">
+    <form method="post" action="registros.php">
     <tr>¿Cual es tu Usuario?<p>
         <input type="text" name="name" placeholder="Usuario"><p>
         <input type="password" placeholder="CONTRASEÑA"><p>
         <input type="submit"value="Ingresar"><p>
-        <img src="image/diary.jpg" width="350" height="180" "aling="right">
+      <img src="imagen/derota.jpg" width="350px" height="250" "aling="right">
     </form>
     <div>
     
